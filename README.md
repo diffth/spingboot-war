@@ -4,6 +4,6 @@
 
 ![Alt text](https://github.com/diffth/spingboot-war/blob/master/readmeImg/g01.png)
 
-![Alt text](https://github.com/diffth/spingboot-war/blob/master/readmeImg/g02.png)
+![Alt text](https://github.com/diffth/spingboot-war/blob/master/readmeImg/g01.png)
 
 
