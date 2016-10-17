@@ -1,2 +1,4 @@
-# spingboot-war
-# spingboot-war
+##STS Github 연동
+
+####1. Open Perspective  ... Git
+
